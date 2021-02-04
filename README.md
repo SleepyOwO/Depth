@@ -1,2 +1,2 @@
-# Depth
+# Depth.github.io
 Test
